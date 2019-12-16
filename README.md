@@ -6,7 +6,8 @@ Every text file contains information about the images contained in each dataset,
 Please, just to test, download the queries and the database images from https://github.com/srv/Underwater-Dataset, and unzip all queries in a folder and all database images in another folder. Then, be sure that the path where you unzipped the images is coincident with the one set in the DATASETS.TXT files. 
 
 The paper is under review. Please, contact with the authors for further information: 
--Antoni Burguera Burguera (antoni.burguera@uib.es)
+
+- Antoni Burguera Burguera (antoni.burguera@uib.es)
 - Francisco Bonin Font (francisco.bonin@uib.es)
 
 
