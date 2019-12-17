@@ -7,7 +7,6 @@ Coding : Antoni Burguera (antoni dot burguera at uib dot es) and Francisco Bonin
 This implementation needs the uploaded DATASETS.TXT files to charge the images into the neural network. 
 Every text file contains information about the images contained in each dataset, queries and database images, and the relation of each query with its corresponding image in the database that closes a loop with the mentioned query. Each query has, at least, one image closing a loop with it in the database.
 
-
 This code is provided without the full datasets. Please, just to test, download the queries and the database images from https://github.com/srv/Underwater-Dataset, and unzip all queries in a folder and all database images in another folder. Then, be sure that the path where you unzipped the images is coincident with the one set in the DATASETS.TXT files. 
 
 The Dataset: 
@@ -16,7 +15,7 @@ A dataset is composed of three parts:
 
 A set of database images. Not provided.
 A set of query images. Not provided.
-A dataset specifier. Three examples are available in the DATASETS folder.
+A dataset specifier. Three examples are available in the DATASETS_TXT and refer to the image set of https://github.com/srv/Underwater-Dataset.
 
 The dataset specifier is a text file with the following fields separated by #
 
