@@ -43,7 +43,7 @@ For each of these modules, there is an usage example available. To understand ea
 First of all, prepare your own datasets. Afterwards, you can execute:
 
 main_trainer : Trains the system and stores the trained models.
-main_tester : Checks the system. Uses the NN to get loop candidates and confirms them using RANSAC. Different stats are obtained too.
+ Uses the NN to get loop candidates and confirms them using RANSAC. Different stats are obtained too.
 Also, after training at least one model you can use it to execute the example in example_candidates.py. Just change the model file name to the one you trained.
 
 Requirements:
